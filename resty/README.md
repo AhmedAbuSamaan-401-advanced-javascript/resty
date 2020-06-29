@@ -16,6 +16,6 @@ Server running at http://localhost:3000/
 npm start
 
 ## UML Diagram
-![UML](/assest/UML26.png)
+![UML](./assest/UML26.png)
 
 
